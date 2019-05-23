@@ -16,6 +16,7 @@ public class Application {
 	}	
 	
 	
+	
 	public void greet(){
 		List<String> greetings = new ArrayList<>();
 		greetings.add("Hello");
